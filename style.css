@@ -81,7 +81,8 @@ body {
 }
 
 .note-panel {
-    display: flex;
+    display: none;
+    /* display: flex; */
     justify-content: center;
     align-items: center;
     flex-direction: column;
